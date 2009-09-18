@@ -8,7 +8,7 @@ use XML::Simple;
 use Text::CSV;
 use Carp;
 
-our $VERSION = '0.02';
+our $VERSION = '0.2';
 
 =head1 NAME
 

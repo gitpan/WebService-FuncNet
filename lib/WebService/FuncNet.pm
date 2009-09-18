@@ -12,7 +12,7 @@ use XML::Compile::SOAP11;
 use XML::Compile::Transport::SOAPHTTP;
 use XML::Compile::Schema;
 
-our $VERSION = '0.02';
+our $VERSION = '0.2';
 our $WSDL_URL = 'http://funcnet.eu/soap/FrontEnd.wsdl';
 
 =head1 NAME

@@ -4,7 +4,7 @@ use strict;
 use warnings;
 
 use Carp;
-our $VERSION = '0.02';
+our $VERSION = '0.2';
 
 use WebService::FuncNet::JobStatus;
 

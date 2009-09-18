@@ -1,6 +1,6 @@
 --- #YAML:1.0
 name:               WebService-FuncNet
-version:            0.02
+version:            0.2
 abstract:           Wrapper around the FuncNet web services
 author:
     - Spiros Denaxas <s.denaxas at gmail.com>
