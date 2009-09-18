@@ -3,7 +3,7 @@ package WebService::FuncNet::JobStatus;
 use strict;
 use warnings;
 
-our $VERSION = '0.1';
+our $VERSION = '0.02';
 
 =head1 NAME
 
